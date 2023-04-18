@@ -1,0 +1,15 @@
+
+.aboutUs p{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 208px;
+    font-size: 20px;
+}
+.aboutUs h1{
+    text-align:center;
+    margin-top: 80px;
+}

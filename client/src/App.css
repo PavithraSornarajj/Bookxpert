@@ -1,0 +1,11 @@
+body{
+    font-family: Poppins,Helvatica,Open Sans;
+    font-size: 14px;
+    color:#000;
+}
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
